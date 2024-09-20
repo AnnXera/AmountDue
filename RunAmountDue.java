@@ -1,4 +1,3 @@
-
 package runamountdue;
 import java.util.Scanner;
 public class RunAmountDue {
